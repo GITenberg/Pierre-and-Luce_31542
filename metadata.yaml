@@ -1,0 +1,39 @@
+_repo: Pierre-and-Luce_31542
+_version: 0.1.0
+alternative_title: Pierre et Luce. English
+contributor:
+  translator:
+    agent_name: De Kay, Charles
+    alias: Kay, Charles de
+    birthdate: 1848
+    deathdate: 1935
+    gutenberg_agent_id: '35309'
+    url: http://www.gutenberg.org/2009/agents/35309
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rolland, Romain
+    alias: Rollan, R.
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '2602'
+    url: http://www.gutenberg.org/2009/agents/2602
+    wikipedia: http://en.wikipedia.org/wiki/Romain_Rolland
+description: ''
+gutenberg_issued: '2010-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31542'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'World War, 1914-1918 -- France -- Fiction'
+title: Pierre and Luce
+url: http://www.gutenberg.org/ebooks/31542
